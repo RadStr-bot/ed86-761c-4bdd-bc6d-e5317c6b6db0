@@ -1,10 +1,10 @@
 {
-  "identifier": "bb082157-3697-44b9-886d-a7b1f2de6569",
+  "identifier": "e990969f-1f66-4c74-bd7b-e0a5c36af0cd",
   "version": 1,
   "type": "http://dataspecer.com/resources/local/visual-model",
   "entities": [
     {
-      "identifier": "bb082157-3697-44b9-886d-a7b1f2de6569-model-metadata-entity",
+      "identifier": "e990969f-1f66-4c74-bd7b-e0a5c36af0cd-model-metadata-entity",
       "type": [
         "entity-model-type"
       ],
@@ -13,7 +13,7 @@
       }
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/59eb412d-020b-49d3-a656-630b12857782",
+      "model": "07f06a46-6fd3-428e-91be-6cc22b04f19f",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "position": {
         "x": 0,
@@ -28,7 +28,7 @@
       "identifier": "u115a"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/c33a35cf-652e-4f2f-af3f-471f80c12e53",
+      "model": "39b6bcf6-5e41-429b-b367-106be1721eaa",
       "representedRelationship": "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
       "waypoints": [
         {
@@ -50,7 +50,7 @@
       "identifier": "hv4gs"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/43c9531a-3c5d-4c9f-bf49-1c424fda1aa7",
+      "model": "8cdffb96-3881-48be-b57b-b681d7aead16",
       "representedRelationship": "http://www.w3.org/2002/07/owl#propertyDisjointWith",
       "waypoints": [
         {
@@ -72,7 +72,7 @@
       "identifier": "h0ma5"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/43c9531a-3c5d-4c9f-bf49-1c424fda1aa7",
+      "model": "8cdffb96-3881-48be-b57b-b681d7aead16",
       "representedRelationship": "http://www.w3.org/2002/07/owl#equivalentProperty",
       "waypoints": [
         {
@@ -94,7 +94,7 @@
       "identifier": "k9hg"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/59eb412d-020b-49d3-a656-630b12857782",
+      "model": "07f06a46-6fd3-428e-91be-6cc22b04f19f",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Statement",
       "position": {
         "x": 0,
@@ -109,7 +109,7 @@
       "identifier": "5i8pn"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/59eb412d-020b-49d3-a656-630b12857782",
+      "model": "07f06a46-6fd3-428e-91be-6cc22b04f19f",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag",
       "position": {
         "x": 0,
@@ -124,7 +124,7 @@
       "identifier": "kgpw"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/59eb412d-020b-49d3-a656-630b12857782",
+      "model": "07f06a46-6fd3-428e-91be-6cc22b04f19f",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Seq",
       "position": {
         "x": 0,
@@ -139,7 +139,7 @@
       "identifier": "fyg76"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/59eb412d-020b-49d3-a656-630b12857782",
+      "model": "07f06a46-6fd3-428e-91be-6cc22b04f19f",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Alt",
       "position": {
         "x": 0,
@@ -154,7 +154,7 @@
       "identifier": "fd9i6"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/59eb412d-020b-49d3-a656-630b12857782",
+      "model": "07f06a46-6fd3-428e-91be-6cc22b04f19f",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#List",
       "position": {
         "x": 0,
@@ -169,7 +169,7 @@
       "identifier": "k3zodg"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/59eb412d-020b-49d3-a656-630b12857782",
+      "model": "07f06a46-6fd3-428e-91be-6cc22b04f19f",
       "representedRelationship": "http://www.w3.org/1999/02/22-rdf-syntax-ns#rest",
       "waypoints": [
         {
@@ -191,7 +191,7 @@
       "identifier": "zi6bf"
     },
     {
-      "model": "http://dataspecer.com/packages/local-root/bc2bed86-761c-4bdd-bc6d-e5317c6b6db0/59eb412d-020b-49d3-a656-630b12857782",
+      "model": "07f06a46-6fd3-428e-91be-6cc22b04f19f",
       "representedEntity": "http://www.w3.org/1999/02/22-rdf-syntax-ns#CompoundLiteral",
       "position": {
         "x": 0,
